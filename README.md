@@ -1,6 +1,6 @@
 #CS 4412 Data Mining Project: 
 #Project title: Discovering Music Patterns in Spotify Data
-Author: Name: Vu Le
+Author: Vu Le
 Email: vle28@students.ksu.edu
 Course: CS 4412 - Data Mining
 Semester: Spring 2026
