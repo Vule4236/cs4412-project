@@ -160,7 +160,6 @@ All packages are pre-installed in Google Colab.
 | Granular methodology | Complete | k = 2 to 12 full sweep; all three metrics; k = 2 formally justified |
 | Expanded challenges with mitigation | Complete | Five limitations with explanation |
 | Academic writing, no first person | Complete | All narrative in third person |
-| No em dashes | Complete | All em dashes removed from notebook and README |
 | No prediction as discovery | Complete | Genre excluded from inputs; Q3 corrected |
 | Silhouette interpreted correctly | Complete | 0.2902 interpreted as moderate, not strong |
 
@@ -184,4 +183,5 @@ All packages are pre-installed in Google Colab.
 4. D. Davies and D. Bouldin, "A Cluster Separation Measure," IEEE Transactions on Pattern Analysis and Machine Intelligence, 1979.
 5. M. Zaki and W. Meira Jr., Data Mining and Machine Learning, Cambridge University Press, 2020.
 6. F. Pedregosa et al., "Scikit-learn: Machine Learning in Python," Journal of Machine Learning Research, vol. 12, 2011.
+
 
