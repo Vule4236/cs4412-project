@@ -1,7 +1,7 @@
 # CS 4412: Data Mining - Discovering Music Patterns in Spotify Data
 ## M2: Initial Implementation
 
-**Author:** Vu Le | **Institution:** Kennesaw State University | **Email:** levu4236@gmail.com
+**Author:** Vu Le | **Institution:** Kennesaw State University | **Email:** vle28@students.ksu.edu
 
 ---
 
