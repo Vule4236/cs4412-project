@@ -1,5 +1,5 @@
 # CS 4412: Data Mining - Discovering Music Patterns in Spotify Data
-## M2: Initial Implementation (Revised — Updated to Actual Outputs)
+## M2: Initial Implementation
 
 **Author:** Vu Le | **Institution:** Kennesaw State University | **Email:** vle28@students.ksu.edu
 
@@ -273,3 +273,4 @@ All packages are pre-installed in Google Colab.
 4. D. Davies and D. Bouldin, "A Cluster Separation Measure," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 1979.
 5. M. Zaki and W. Meira Jr., *Data Mining and Machine Learning*, Cambridge University Press, 2020.
 6. F. Pedregosa et al., "Scikit-learn: Machine Learning in Python," *Journal of Machine Learning Research*, vol. 12, 2011.
+
